@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Untitled.md",
+                "file": "notes/Test.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Test"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Untitled.md",
+                "file": "notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Untitled.md",
+                "file": "notes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Untitled.md",
+                "file": "notes/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Test"
             }
           }
         ]
@@ -184,22 +184,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8ac368bb422d947f",
+  "active": "7ffd4f98f9720883",
   "lastOpenFiles": [
+    "notes/Test.html",
+    "notes/Test_files/mediabag",
+    "notes/Test_files",
+    "notes/index.html",
+    "notes/index_files/mediabag",
+    "notes/index_files",
+    "index.html",
+    "index_files/mediabag",
+    "index_files",
     "docs/listings.json",
     "docs/search.json",
     "docs/assets/hoff-art.png",
-    "docs/assets",
-    "docs/styles.scss",
-    "docs/site_libs/quarto-html/tabsets/tabsets.js",
-    "docs/site_libs/quarto-search/quarto-search.js",
-    "docs/site_libs/quarto-search/fuse.min.js",
-    "docs/site_libs/quarto-search/autocomplete.umd.js",
-    "docs/site_libs/quarto-nav/quarto-nav.js",
-    "docs/site_libs/quarto-nav/headroom.min.js",
-    "docs/site_libs/quarto-listing/list.min.js",
     "_templates/math-note.md",
-    "notes/Untitled.md",
+    "notes/Test.md",
     "notes/Test.md",
     "_templates/post.md",
     "notes/note.qmd.md",
