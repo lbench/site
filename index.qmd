@@ -2,6 +2,10 @@
 title: "Home"
 ---
 
+::: {.column-margin}
+![](assets/hoff-art.png.png){fig-alt="Abstract geometric artwork" width="100%"}
+:::
+
 # Welcome
 
 I’m building a math and personal website with Obsidian, Quarto, and GitHub Pages.
