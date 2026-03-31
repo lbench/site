@@ -46,14 +46,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I’m building a math and personal website with Obsidian, Quarto, and GitHub Pages.\n\n\n\nAbout\nNotes\nPosts"
+    "text": "A margin image"
   },
   {
     "objectID": "index.html#sections",
     "href": "index.html#sections",
     "title": "Home",
-    "section": "",
-    "text": "About\nNotes\nPosts"
+    "section": "1.1 Sections",
+    "text": "1.1 Sections\n\nAbout\nNotes\nPosts"
   },
   {
     "objectID": "notes/quotient-vector-spaces.html",
