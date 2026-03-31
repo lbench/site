@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Test.md",
+                "file": "notes/Untitled.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Test.md",
+                "file": "notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Test.md",
+                "file": "notes/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Test.md",
+                "file": "notes/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -197,10 +197,11 @@
     "docs/site_libs/quarto-search/autocomplete.umd.js",
     "docs/site_libs/quarto-nav/quarto-nav.js",
     "docs/site_libs/quarto-nav/headroom.min.js",
-    "docs/site_libs/quarto-listing/quarto-listing.js",
+    "docs/site_libs/quarto-listing/list.min.js",
     "_templates/math-note.md",
-    "_templates/post.md",
+    "notes/Untitled.md",
     "notes/Test.md",
+    "_templates/post.md",
     "notes/note.qmd.md",
     "assets/hoff-art.png",
     "README.md",

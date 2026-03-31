@@ -1,15 +1,15 @@
 [
   {
-    "listing": "/posts/index.html",
+    "listing": "/notes/index.html",
     "items": [
-      "/posts/first-post.html"
+      "/notes/Untitled.html",
+      "/notes/quotient-vector-spaces.html"
     ]
   },
   {
-    "listing": "/notes/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/notes/quotient-vector-spaces.html",
-      "/notes/Test.html"
+      "/posts/first-post.html"
     ]
   }
 ]

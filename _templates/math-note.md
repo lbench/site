@@ -1,10 +1,8 @@
 ---
-title: "{{title}}"
+title: ""
 description: ""
 categories: [math]
 ---
-
-# {{title}}
 
 ## Motivation
 

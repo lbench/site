@@ -1,18 +1,26 @@
 ---
-title: "Untitled"
+title: My Test
 description: ""
-categories: [math]
+categories:
+  - math
 ---
 
-# My Test
-
 ## Motivation
+
 asdf
+
 ## Main idea
+
 asdf
+
 ## Definitions
+
 asdf
+
 ## Examples
+
 asdf
+
 ## Remarks
+
 asdf
