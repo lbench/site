@@ -22,8 +22,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.scss
     toc: true
     number-sections: true
     html-math-method: mathjax
+    respect-user-color-scheme: true
